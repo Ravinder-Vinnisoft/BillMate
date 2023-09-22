@@ -1,0 +1,39 @@
+C:/Users/drjas/repo/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.csproj.AssemblyReference.cache
+C:/Users/drjas/repo/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/drjas/repo/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.AssemblyInfoInputs.cache
+C:/Users/drjas/repo/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.AssemblyInfo.cs
+C:/Users/drjas/repo/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.csproj.CoreCompileInputs.cache
+C:/Users/drjas/repo/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.deps.json
+C:/Users/drjas/repo/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.runtimeconfig.json
+C:/Users/drjas/repo/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.runtimeconfig.dev.json
+C:/Users/drjas/repo/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.dll
+C:/Users/drjas/repo/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.pdb
+C:/Users/drjas/repo/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.dll
+C:/Users/drjas/repo/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.pdb
+C:/Users/drjas/repo/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.genruntimeconfig.cache
+E:/Pooja/BillMate/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.deps.json
+E:/Pooja/BillMate/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.runtimeconfig.json
+E:/Pooja/BillMate/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.runtimeconfig.dev.json
+E:/Pooja/BillMate/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.dll
+E:/Pooja/BillMate/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.pdb
+E:/Pooja/BillMate/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.csproj.AssemblyReference.cache
+E:/Pooja/BillMate/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:/Pooja/BillMate/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.AssemblyInfoInputs.cache
+E:/Pooja/BillMate/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.AssemblyInfo.cs
+E:/Pooja/BillMate/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.csproj.CoreCompileInputs.cache
+E:/Pooja/BillMate/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.dll
+E:/Pooja/BillMate/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.pdb
+E:/Pooja/BillMate/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.genruntimeconfig.cache
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.deps.json
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.runtimeconfig.json
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.runtimeconfig.dev.json
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/bin/Debug/netcoreapp3.1/BillmateLibrary.pdb
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.csproj.AssemblyReference.cache
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.AssemblyInfoInputs.cache
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.AssemblyInfo.cs
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.csproj.CoreCompileInputs.cache
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.pdb
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/BillmateLibrary/obj/Debug/netcoreapp3.1/BillmateLibrary.genruntimeconfig.cache

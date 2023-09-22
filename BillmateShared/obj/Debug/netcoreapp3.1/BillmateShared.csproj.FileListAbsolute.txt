@@ -1,0 +1,5 @@
+C:\Users\drjas\repo\BillMate\BillmateShared\obj\Debug\netcoreapp3.1\BillmateShared.csproj.AssemblyReference.cache
+C:\Users\drjas\repo\BillMate\BillmateShared\obj\Debug\netcoreapp3.1\BillmateShared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drjas\repo\BillMate\BillmateShared\obj\Debug\netcoreapp3.1\BillmateShared.AssemblyInfoInputs.cache
+C:\Users\drjas\repo\BillMate\BillmateShared\obj\Debug\netcoreapp3.1\BillmateShared.AssemblyInfo.cs
+C:\Users\drjas\repo\BillMate\BillmateShared\obj\Debug\netcoreapp3.1\BillmateShared.csproj.CoreCompileInputs.cache

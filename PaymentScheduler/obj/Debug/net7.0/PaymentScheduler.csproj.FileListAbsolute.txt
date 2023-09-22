@@ -1,0 +1,152 @@
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.csproj.AssemblyReference.cache
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.AssemblyInfoInputs.cache
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.AssemblyInfo.cs
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.csproj.CoreCompileInputs.cache
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.exe
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.dll.config
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.deps.json
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.runtimeconfig.json
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.pdb
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Bcl.HashCode.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Newtonsoft.Json.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/NLog.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/NLog.Extensions.Logging.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/NLog.Web.AspNetCore.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Postmark.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Stripe.net.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Drawing.Common.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Runtime.Caching.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Security.Permissions.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Windows.Extensions.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/Twilio.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/BillmateLibrary.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/bin/Debug/net7.0/BillmateLibrary.pdb
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.csproj.CopyComplete
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/refint/PaymentScheduler.dll
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.pdb
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.genruntimeconfig.cache
+C:/Users/drjas/repo/BillMate/PaymentScheduler/obj/Debug/net7.0/ref/PaymentScheduler.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.dll.config
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.deps.json
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.runtimeconfig.json
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/PaymentScheduler.pdb
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.AspNetCore.JsonPatch.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Bcl.HashCode.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.CodeAnalysis.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Data.SqlClient.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Identity.Client.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Newtonsoft.Json.Bson.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/NLog.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/NLog.Extensions.Logging.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/NLog.Web.AspNetCore.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Postmark.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Stripe.net.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Runtime.Caching.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/Twilio.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/cs/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/de/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/es/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/fr/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/it/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/ja/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/ko/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/pl/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/ru/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/tr/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.1/Microsoft.Data.SqlClient.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win-arm64/native/sni.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win-x64/native/sni.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win-x86/native/sni.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/BillmateLibrary.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/bin/Debug/net7.0/BillmateLibrary.pdb
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.csproj.AssemblyReference.cache
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.AssemblyInfoInputs.cache
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.AssemblyInfo.cs
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.csproj.CoreCompileInputs.cache
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.csproj.CopyComplete
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/refint/PaymentScheduler.dll
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.pdb
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/PaymentScheduler.genruntimeconfig.cache
+/Users/ravindersingh/Documents/Projects/Full/Billmate New/BillMate/PaymentScheduler/obj/Debug/net7.0/ref/PaymentScheduler.dll

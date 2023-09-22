@@ -1,0 +1,512 @@
+﻿<!--<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{practiceName}</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            height: 100%;
+            color: #d3d3d3;
+            background-color: #F0F0F0;
+            font-family: sans-serif;
+            -webkit-font-smoothing: antialiased;
+            text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            -webkit-text-size-adjust: 100%;
+            line-height: 100%;
+        }
+
+        .container {
+            max-width: 560px;
+            margin: 0 auto;
+            border-radius: 8px;
+            background-color: #FFFFFF;
+            color: #666a7a;
+            font-size: 17px;
+            font-weight: 400;
+            line-height: 160%;
+            padding: 25px;
+        }
+
+        .header {
+            padding: 20px;
+            text-align: center;
+        }
+
+            .header img {
+                width: 300px;
+                outline: none;
+                border: none;
+                display: block;
+                -ms-interpolation-mode: bicubic;
+            }
+
+        .content {
+            text-align: left;
+            padding: 0 6.25%;
+            width: 87.5%;
+        }
+
+        a, a:hover {
+            color: #127DB3;
+            text-decoration: none;
+        }
+
+        .button {
+            display: inline-block;
+            margin: 10px 0;
+            padding: 10px 20px;
+            color: #fff;
+            background-color: #007bff;
+            border: none;
+            text-decoration: none;
+        }
+
+        .footer {
+            font-size: 12px;
+            margin-top: 50px;
+        }
+
+        .notice {
+            font-size: 10px;
+            margin-top: 10px;
+        }
+
+        hr {
+            border: 0;
+            height: 1px;
+            background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+
+
+
+            @media (min-width: 560px) {
+                .container {
+                    border-radius: 8px;
+                }
+            }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <a href="#" target="_blank">
+            <img src="{logo}" alt="{practiceName} Logo" title="Logo">
+        </a>
+    </div>
+    <div class="container">
+        <div class="content">
+            {customText}
+            <hr>
+        </div>
+        <div>
+            <a href="{paymentLink}" style="background-color: #4CAF50; border: none; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Pay Now</a>
+        </div>
+    </div>
+    <div class="footer">
+        <p>{practiceName}</p>
+        <p>{practiceAddress}</p>
+        <p>{practicePhoneNumber}</p>
+    </div>
+    <div class="notice">
+        <p>You have received this email because you are a patient of {practiceName}. You are signed up to receive these messages.</p>
+    </div>
+</body>
+</html>-->
+
+
+<!DOCTYPE html PUBLIC"- //W3C//DTD XHTML 1.0 Transitional //EN""http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+    <title>Booking Payment Link email from @Model.company.Name</title>
+    <meta content="exported via StampReady" name="sr_export">
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style type="text/css">
+        @media only screen and (max-width: 480px) {
+            .mobileOff {
+                width: 0px !important;
+                display: none !important;
+            }
+
+            .content-box-right {
+                width: 0px !important;
+                display: none !important;
+            }
+
+            *[class*="mobileOn"] {
+                display: block !important;
+                max-height: none !important;
+            }
+
+            br {
+                display: static;
+            }
+
+            table.table-inner {
+                width: 90% !important;
+            }
+
+            .hero {
+                font-size: 16px !important;
+                text-align: center;
+            }
+
+            .hero-child {
+                font-size: 12px !important;
+                line-height: 18px !important;
+            }
+
+            .hero-child-second {
+                font-size: 12px !important;
+            }
+
+            table.table-inner-sub {
+                width: 96% !important;
+            }
+
+            .logo-wrapper {
+                text-align: center !important;
+            }
+
+            table.header-row {
+                width: 100% !important;
+            }
+
+            .textbutton {
+                width: 170px;
+            }
+
+            table.content-box td strong,
+            table.content-box td span {
+                font-size: 14px !important;
+            }
+
+            .hero {
+                padding-top: 10px;
+            }
+
+            .booking-img-wrp {
+                text-align: center !important;
+            }
+
+            table.content-box-left {
+                width: 100%;
+            }
+
+            table.content-box-right {
+                width: 100%;
+            }
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            background-color: #f2f4f7;
+            border-top: 9px solid #1e284f;
+            -webkit-text-size-adjust: none;
+            -ms-text-size-adjust: none;
+        }
+
+        table {
+            border-spacing: 0;
+            table-layout: fixed;
+            margin: 0 auto;
+        }
+
+            table.content {
+                background-color: #FFFFFF;
+                border-radius: 8px;
+                border: 1px solid #dcdfe5;
+            }
+
+            table.content-box {
+                background-color: #f2f4f7;
+                border-radius: 8px;
+            }
+
+        .content-box-left,
+        .content-box-right,
+        .content-box-single {
+            padding: 16px;
+            vertical-align: top;
+        }
+
+        table td {
+            border-collapse: collapse;
+        }
+
+        table.header-row {
+            background-color: #1e284f;
+            border-radius: 8px 8px 0 0;
+        }
+
+            table.header-row > tbody > tr > td:first-child {
+                padding-left: 24px;
+            }
+
+            table.header-row > tbody > tr > td:last-child {
+                padding-right: 24px;
+            }
+
+        table.button {
+            border-radius: 8px;
+            padding: 2px;
+            background-color: #1e284f;
+        }
+
+        .text-label {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            color: #868C9D;
+            line-height: 22px;
+        }
+
+        .text-value {
+            color: #576381;
+            font-size: 14px;
+            font-family: Arial, sans-serif;
+            line-height: 22px;
+        }
+
+        .text-title {
+            font-family: Arial, sans-serif;
+            font-size: 14px;
+            color: #525F7F;
+            line-height: 22px;
+        }
+
+        .text-button {
+            height: 40px;
+            width: 220px;
+            text-align: center;
+            font-family: Arial, sans-serif;
+            color: #FFFFFF;
+            padding: 4px;
+        }
+
+            .text-button a {
+                color: #FFFFFF;
+                padding: 4px;
+                font-size: 18px;
+                text-decoration: none;
+            }
+
+        .text {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: #9E9E9E;
+            font-size: 14px;
+        }
+
+        .footer-text {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            color: #9E9E9E;
+            font-size: 12px;
+        }
+
+        .nav {
+            text-align: right;
+            padding-left: 16px;
+        }
+
+            .nav a {
+                font-family: Arial, sans-serif;
+                color: #9E9E9E;
+                font-size: 14px;
+                text-decoration: none;
+            }
+
+        .hero {
+            color: #1e284f;
+            font-family: Arial, sans-serif;
+            font-size: 20px;
+            text-align: center;
+        }
+
+        .hero-child {
+            text-align: center;
+            color: #9E9E9E;
+            font-size: 14px;
+            font-family: Arial, sans-serif;
+            line-height: 22px;
+        }
+    </style>
+</head>
+
+<body>
+    <table width="100%" cellspacing="0" cellpadding="0">
+        <!--START PRE HEADER-->
+        <!--<tr>
+            <td align="center">
+                <table cellspacing="0" cellpadding="0" width="552" class="table-inner">
+                    <tr>
+                        <td height="32"></td>
+                    </tr>
+                    <tr>
+                        <td class="text">
+                            Booking Payment Link email from @Model.company.Name
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="32"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>-->
+        <!--END PRE HEADER-->
+        <!--START MAIN BODY-->
+        <tr>
+            <td align="center">
+                <table cellspacing="0" cellpadding="0" width="600" class="table-inner content">
+                    <tr>
+                        <td align="center">
+                            <!--START HEADER-->
+                            <table cellspacing="0" cellpadding="0" width="598" class="header-row">
+                                <tr>
+                                    <td height="16" style="border-collapse: collapse;"></td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="border-collapse: collapse;">
+                                        <table class="table-inner-sub" cellspacing="0" cellpadding="0" width="552"
+                                               style="border-spacing: 0;table-layout: fixed;margin: 0 auto;">
+                                            <tr>
+                                                <td width="50%" class="logo-wrapper" style="border-collapse: collapse;">
+                                                    <img src="{logo}" alt="img" width="100"
+                                                         class="logo-img">
+                                                </td>
+                                                <!--<td width="50%" class="mobileOff" style="border-collapse: collapse;">
+                                                    <table cellspacing="0" cellpadding="0" width="100%"
+                                                           style="border-spacing: 0;table-layout: fixed;margin: 0 auto;">
+                                                        <tr>
+                                                            <td class="nav"
+                                                                style="border-collapse: collapse;text-align: right;padding-left: 16px;">
+                                                                <a href="https://bluelinetaxis.com/"
+                                                                   style="font-family: Arial, sans-serif;color: #ffffff;font-size: 14px;text-decoration: none;">About</a>
+                                                            </td>
+                                                            <td class="nav"
+                                                                style="border-collapse: collapse;text-align: right;padding-left: 16px;">
+                                                                <a href="https://book.bluelinetaxis.com/login"
+                                                                   style="font-family: Arial, sans-serif;color: #ffffff;font-size: 14px;text-decoration: none;">
+                                                                    Book
+                                                                    Now
+                                                                </a>
+                                                            </td>
+                                                            <td class="nav"
+                                                                style="border-collapse: collapse;text-align: right;padding-left: 16px;">
+                                                                <a href="https://bluelinetaxis.com/contact"
+                                                                   style="font-family: Arial, sans-serif;color: #ffffff;font-size: 14px;text-decoration: none;">
+                                                                    Contact
+                                                                    Us
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                    </table>
+                                                </td>-->
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="16" style="border-collapse: collapse;"></td>
+                                </tr>
+                            </table>
+                            <!--END HEADER-->
+                            <!--START CONTENT-->
+                            <table cellspacing="0" cellpadding="0" width="598" class="table-inner-sub">
+                                <tr class="mobileOff">
+                                    <td height="24">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="hero">
+                                        <strong>{practiceName}</strong>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="16">
+                                    </td>
+                                </tr>
+                                <!--<tr>
+                                    <td class="hero-child">
+                                        <strong>Booking #@Model.localId</strong>
+                                    </td>
+                                </tr>-->
+                                <tr>
+                                    <td height="16">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td class="hero-child">
+                                      {customText}
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="16">
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td align="center" style="border-collapse: collapse;">
+                                        <table cellspacing="0" cellpadding="0" class="button" style="border-spacing: 0;table-layout: fixed;margin: 0 auto;border-radius: 8px;padding: 2px;background-color: #1e284f;">
+                                            <tr>
+                                                <td class="text-button" align="center" style="border-collapse: collapse;height: 40px;width: 220px;text-align: center;font-family: Helvetica Neue, Helvetica, Arial, sans-serif;color: #FFFFFF;padding: 4px;">
+                                                    <a href="{paymentLink}" style="color: #FFFFFF;padding: 4px;font-size: 14px;text-decoration: none;">
+                                                        Pay Now
+                                                    </a>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td height="24" style="border-collapse: collapse;">
+                                    </td>
+                                </tr>
+                                <!--<tr>
+                                    <td class="hero-child-second" style="border-collapse: collapse;text-align: center;color: #1e284f;font-size: 14px;font-family: Helvetica Neue, Helvetica, Arial, sans-serif;font-weight: 100;">
+                                        <strong>If you have a different payment method, please ignore this message.</strong>
+                                    </td>
+                                </tr>-->
+                                <tr>
+                                    <td height="32" style="border-collapse: collapse;">
+                                    </td>
+                                </tr>
+                            </table>
+                            <!--END CONTENT-->
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--END MAIN BODY-->
+        <!--START FOOTER-->
+        <tr>
+            <td align="center">
+                <table cellspacing="0" cellpadding="0" width="552" class="table-inner">
+                    <tr>
+                        <td height="32"></td>
+                    </tr>
+                    <tr>
+                        <td class="footer-text">
+                            <p>You have received this email because you are a patient of {practiceName}. You are signed up to receive these messages.</p>
+                            <br /><br /> {practiceName} | {practiceAddress} | {practicePhoneNumber}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td height="32"></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <!--END FOOTER-->
+    </table>
+
+</body>
+
+</html>
+
